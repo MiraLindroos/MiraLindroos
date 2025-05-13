@@ -5,8 +5,7 @@ This repository showcases some of the projects I've built during my studies and 
 I'm currently **looking for full-time opportunities**, where I can apply my existing knowledge while learning new technologies!
 
 ### 📄 Thesis  
-I developed a **digital signature solution** for employee contract management using **Node.js**, integrated with the **Signicat Authentication API**.  
-The backend was deployed via **Firebase Cloud Functions**, and the frontend was built using **React Native** and **Vue.js**.  
+I developed a **digital signature solution** for employee contract management using **Node.js**, integrated with the **Signicat Authentication API**. The backend was deployed via **Firebase Cloud Functions**, and the frontend was built using **React Native** and **Vue.js**.  
 This project gave me practical experience with backend logic, cloud services, and real-world system integration.
 
 📄 [Read it here](https://urn.fi/URN:NBN:fi:amk-202504146480)
