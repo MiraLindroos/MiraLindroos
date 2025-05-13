@@ -61,9 +61,6 @@ Contributed to a website offering support to people affected by the traumatic lo
 ### 🔹 [Mobile Game Website](https://webpages.tuni.fi/21tiko4a/index.html)  
 Part of a first-year team project. I was responsible for designing and building the website.
 
-### 🔹 [Personal Website](https://homepages.tuni.fi/mira.lindroos/index.html)  
-My first-ever website – created as part of an early web development assignment.
-
 ---
 
 ## 🚀 Open to Work
