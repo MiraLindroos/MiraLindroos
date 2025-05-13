@@ -72,6 +72,6 @@ I'm currently seeking roles in:
 - Junior Developer positions  
 
 📫 **Email:** mira.isabelle27@gmail.com  
-🌐 **LinkedIn:** [linkedin.com/in/miralindroos](https://www.linkedin.com/in/miralindroos27/)
+🌐 **LinkedIn:** [Mira Lindroos](https://www.linkedin.com/in/miralindroos27/)
 
 ---
