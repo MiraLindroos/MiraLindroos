@@ -2,7 +2,10 @@
 
 I'm a graduate in **Business Information Systems** from **TAMK (Tampere University of Applied Sciences)**.  
 This repository showcases some of the projects I've built during my studies and free time.  
-I'm currently **looking for full-time opportunities**, where I can apply my existing knowledge while learning new technologies!
+🔥Currently I am developing a time management web application with React and Firebase.  
+
+
+I'm **looking for full-time opportunities**, where I can apply my existing knowledge while learning new technologies! 
 
 ### 📄 Thesis  
 I developed a **digital signature solution** for employee contract management using **Node.js**, integrated with the **Signicat Authentication API**. The backend was deployed via **Firebase Cloud Functions**, and the frontend was built using **React Native** and **Vue.js**. This project gave me practical experience with backend logic, cloud services, and real-world system integration.
