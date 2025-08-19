@@ -38,6 +38,9 @@ A command-line Hangman game that selects random words from a file. The user gues
 
 ## ⚛️ React & React Native Projects
 
+### ⌚️ Time management App _(React)_
+Currently working on building a time and project management web application with React and Firebase. Improving my skills in **data handling**, **real-time updates**, and **reusable components**, while gaining more experience with **Firebase**.
+
 ### ✅ ToDo App _(React)_
 My first project using React. Helped me understand **state management** and **component-based** architecture.
 
