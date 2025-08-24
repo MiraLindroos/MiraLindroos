@@ -19,6 +19,7 @@ I developed a **digital signature solution** for employee contract management us
 - **Languages & Frameworks:** JavaScript, Python, Java, Node.js, React, React Native, Vue.js  
 - **Databases & Backends:** MySQL, Firebase, REST APIs  
 - **Tools & Platforms:** Git, GitHub, WordPress, Visual Studio Code, Figma
+- **AI Tools**: ChatGPT (used for explanations, brainstorming, and planning)
 
 ---
 
