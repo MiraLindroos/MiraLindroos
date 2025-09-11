@@ -76,7 +76,8 @@ I'm currently seeking roles in:
 
 - Frontend / Backend / Full-stack Development  
 - Mobile App Development  
-- Junior Developer positions  
+- Junior Developer positions
+- Open to other roles where I can apply my existing knowledge and learn more  
 
 📫 **Email:** mira.isabelle27@gmail.com  
 🌐 **LinkedIn:** [Mira Lindroos](https://www.linkedin.com/in/miralindroos27/)
