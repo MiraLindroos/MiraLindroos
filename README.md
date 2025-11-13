@@ -2,7 +2,7 @@
 
 I'm a graduate in **Business Information Systems** from **TAMK (Tampere University of Applied Sciences)**.  
 This repository showcases some of the projects I've built during my studies and free time.  
-🔥Currently I am developing a time management web application with React and Firebase. You can see the project from my pinned repositories under the name FlowSoft!  
+🔥Currently I am developing a time management web application with React and Firebase.  
 
 
 I'm **looking for full-time opportunities**, where I can apply my existing knowledge while learning new technologies! 
