@@ -2,7 +2,8 @@
 
 I'm a graduate in **Business Information Systems** from **TAMK (Tampere University of Applied Sciences)**.  
 This repository showcases some of the projects I've built during my studies and free time.  
-🔥Currently I am developing a time management web application with React and Firebase.  
+
+🔥I recently developed a time management web application with **React** and **Firebase**. A few **selected snippets** from the app are visible in the pinned **Time-management-app repository** to provide a brief overview of the code and implementation details. 
 
 
 I'm **looking for full-time opportunities**, where I can apply my existing knowledge while learning new technologies! 
