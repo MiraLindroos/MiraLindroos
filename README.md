@@ -1,17 +1,22 @@
 # 👋 Welcome to My GitHub Portfolio
 
 I'm a graduate in **Business Information Systems** from **TAMK (Tampere University of Applied Sciences)**.  
-This repository showcases some of the projects I've built during my studies and free time.  
+This repository showcases selected projects I've built during my studies and free time.  
 
-🔥I recently developed a time management web application with **React** and **Firebase**. A few **selected snippets** from the app are visible in the pinned **Time-management-app repository** to provide a brief overview of the code and implementation details. 
+🔥I recently developed a time management web application with **React** and **Firebase**. A few **selected code snippets** are available in the pinned **Time-management-app repository**, giving a brief look into the app’s structure and implementation without exposing the full private codebase.  
 
 
-I'm **looking for full-time opportunities**, where I can apply my existing knowledge while learning new technologies! 
+I'm **looking for full-time opportunities** where I can apply my skills and continue growing as a software developer.  
 
 ### 📄 Thesis  
-I developed a **digital signature solution** for employee contract management using **Node.js**, integrated with the **Signicat Authentication API**. The backend was deployed via **Firebase Cloud Functions**, and the frontend was built using **React Native** and **Vue.js**. This project gave me practical experience with backend logic, cloud services, and real-world system integration.
+I developed a **digital signature solution** for employee contract management using **Node.js**, integrated with the **Signicat Authentication API**. The backend was deployed via **Firebase Cloud Functions**, and the frontend was built using **React Native** and **Vue.js**. This project strengthened my skills in **API integrations**, **secure data processing**, and **cloud-based backend development**.  
 
 📄 [Read it here](https://urn.fi/URN:NBN:fi:amk-202504146480)
+
+---
+
+### 🗄️ Recent Work with Directus Cloud  
+Recently, I’ve worked with **Directus Cloud**, focusing on designing **data models**, **defining database relationships**, and **configuring access control policies**. This experience has improved my understanding of **headless CMS architecture**, **structured data modeling**, and **secure permission management** in cloud environments.  
 
 ---
 
