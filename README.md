@@ -21,7 +21,7 @@ I developed a **digital signature solution** for employee contract management us
 ---
 
 ### 🗄️ Recent Work with Directus Cloud  
-Recently, I’ve worked with **Directus Cloud**, focusing on designing **data models**, **defining database relationships**, and **configuring access control policies**. This experience has improved my understanding of **headless CMS architecture**, **structured data modeling**, and **secure permission management** in cloud environments.  
+Recently, I worked with **Directus Cloud**, focusing on designing **data models**, **defining database relationships**, and **configuring access control policies**. This experience  improved my understanding of **headless CMS architecture**, **structured data modeling**, and **secure permission management** in cloud environments.  
 
 ---
 
