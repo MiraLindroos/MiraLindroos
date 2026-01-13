@@ -3,8 +3,13 @@
 I'm a graduate in **Business Information Systems** from **TAMK (Tampere University of Applied Sciences)**.  
 This repository showcases selected projects I've built during my studies and free time.  
 
-🔥I recently developed a time management web application with **React** and **Firebase**. A few **selected code snippets** are available in the pinned **Time-management-app repository**, giving a brief look into the app’s structure and implementation without exposing the full private codebase.  
+**Currently**, I’m working on backend development for an AI-generated frontend.  
+In this project, I’m learning and using **Supabase** together with **TypeScript**, focusing on:  
+**-Supabase Database**  
+**-Supabase Auth**  
+**-Supabase Edge Functions** 
 
+🔥During summer 2025, I developed a time management web application with **React** and **Firebase**. A few **selected code snippets** are available in the pinned **Time-management-app repository**, giving a brief look into the app’s structure and implementation without exposing the full private codebase.   
 
 I'm **looking for full-time opportunities** where I can apply my skills and continue growing as a software developer.  
 
