@@ -3,15 +3,13 @@
 I'm a graduate in **Business Information Systems** from **TAMK (Tampere University of Applied Sciences)**.  
 This repository showcases selected projects I've built during my studies and free time.  
 
-**Currently**, I’m working on backend development for an AI-generated frontend.  
-In this project, I’m learning and using **Supabase** together with **TypeScript**, focusing on:  
+**Recently**, I worked on backend development for an AI-generated frontend.  
+In this project, I learned and used **Supabase** together with **TypeScript**, focusing on:  
 **-Supabase Database**  
 **-Supabase Auth**  
 **-Supabase Edge Functions** 
 
 🔥During summer 2025, I developed a time management web application with **React** and **Firebase**. A few **selected code snippets** are available in the pinned **Time-management-app repository**, giving a brief look into the app’s structure and implementation without exposing the full private codebase.   
-
-I'm **looking for full-time opportunities** where I can apply my skills and continue growing as a software developer.  
 
 ### 📄 Thesis  
 I developed a **digital signature solution** for employee contract management using **Node.js**, integrated with the **Signicat Authentication API**. The backend was deployed via **Firebase Cloud Functions**, and the frontend was built using **React Native** and **Vue.js**. This project strengthened my skills in **API integrations**, **secure data processing**, and **cloud-based backend development**.  
@@ -78,19 +76,5 @@ Contributed to a website offering support to people affected by the traumatic lo
 
 ### 🔹 [Mobile Game Website](https://webpages.tuni.fi/21tiko4a/index.html)  
 Part of a first-year team project. I was responsible for designing and building the website.
-
----
-
-## 🚀 Open to Work
-
-I'm currently seeking roles in:
-
-- Frontend / Backend / Full-stack Development  
-- Mobile App Development  
-- Junior Developer positions
-- Open to other roles where I can apply my existing knowledge and learn more  
-
-📫 **Email:** mira.isabelle27@gmail.com  
-🌐 **LinkedIn:** [Mira Lindroos](https://www.linkedin.com/in/miralindroos27/)
 
 ---
